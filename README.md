@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<video src="2025-10-13-210010814.mp4" width="400" controls>
-  Ваш браузер не поддерживает видео тег.
-</video>
+![Демонстрация работы](640.gif)
 
 <!--
 **Khuyew/Khuyew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
