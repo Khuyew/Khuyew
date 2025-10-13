@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Демонстрация работы](650.gif)
+![Демонстрация работы]([650.gif](https://github.com/khuyew/khuyew/650.gif)
 
 <!--
 **Khuyew/Khuyew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
